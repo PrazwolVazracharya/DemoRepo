@@ -1,0 +1,6 @@
+c:\users\prazwols pc\documents\visual studio 2017\Projects\CustomerDemo\CustomerDemo\bin\Debug\CustomerDemo.exe.config
+c:\users\prazwols pc\documents\visual studio 2017\Projects\CustomerDemo\CustomerDemo\bin\Debug\CustomerDemo.exe
+c:\users\prazwols pc\documents\visual studio 2017\Projects\CustomerDemo\CustomerDemo\bin\Debug\CustomerDemo.pdb
+c:\users\prazwols pc\documents\visual studio 2017\Projects\CustomerDemo\CustomerDemo\obj\Debug\CustomerDemo.csprojResolveAssemblyReference.cache
+c:\users\prazwols pc\documents\visual studio 2017\Projects\CustomerDemo\CustomerDemo\obj\Debug\CustomerDemo.exe
+c:\users\prazwols pc\documents\visual studio 2017\Projects\CustomerDemo\CustomerDemo\obj\Debug\CustomerDemo.pdb
